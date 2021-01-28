@@ -32,6 +32,10 @@ def output_array(array)
 end
   
 def return_string_array(array)
+  counter=0
   array=[5,4,3,2,1]
- return array[0].to_s,[1].to_s
+  while array[counter] do
+    return array.to_s
+ counter+=1 
+ end
 end
