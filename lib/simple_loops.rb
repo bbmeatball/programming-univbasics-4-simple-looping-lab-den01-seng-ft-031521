@@ -28,6 +28,7 @@ while array [counter] do
   puts array[counter]
   counter += 1 
  end
+ array[5,4,3,2,1]
 end
   
 
