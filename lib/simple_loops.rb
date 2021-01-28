@@ -24,7 +24,7 @@ end
 def output_array(array)
  array = ["Be yourself;", "everyone else is already taken", "- Oscar Wilde"]
 
-  puts array [1,2,3]
+  puts array
   
 
 end
