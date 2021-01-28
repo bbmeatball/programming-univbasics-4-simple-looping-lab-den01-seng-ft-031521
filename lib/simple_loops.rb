@@ -33,5 +33,5 @@ end
   
 def return_string_array(array)
   array=[5,4,3,2,1]
- return array.to_s
+ return array[0],[1].to_s
 end
