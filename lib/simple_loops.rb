@@ -23,7 +23,7 @@ end
 
 def output_array(array)
  array = ["Be yourself;", "everyone else is already taken", "- Oscar Wilde"]
- array[0,1,2]
+ puts array[0,1,2]
 end
   
 
