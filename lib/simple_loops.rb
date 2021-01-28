@@ -28,7 +28,7 @@ while array [counter] do
   puts array[counter]
   counter += 1 
  end
- array[1,2,3]
+ array
 end
   
 
