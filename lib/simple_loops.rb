@@ -31,4 +31,3 @@ while array [counter] do
 end
   
 
-end
