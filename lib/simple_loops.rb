@@ -32,10 +32,10 @@ def output_array(array)
 end
   
 def return_string_array(array)
-  counter=0
+  count=0
   array=[5,4,3,2,1]
   while count < array.length do
-  array[counter].to_s
+  array[count].to_s
  counter+=1 
  end
  array
